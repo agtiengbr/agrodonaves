@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>agrodonaves</name>
+    <displayName><![CDATA[Transportadora Rodonaves]]></displayName>
+    <version><![CDATA[1.1.7]]></version>
+    <description><![CDATA[Ofereça a seus clientes a possiblidade de envio das encomendas através da Rodonaves.]]></description>
+    <author><![CDATA[AGTI]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+    <limited_countries></limited_countries>
+</module>
