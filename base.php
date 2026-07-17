@@ -62,7 +62,7 @@ class baseAgRodonaves extends AgCarrierModule
     public function __construct()
     {
         $this->name                   = 'agrodonaves';
-        $this->version                = '1.1.7';
+        $this->version                = '1.1.8';
         $this->bootstrap              = true;
         $this->author                 = 'AGTI';
         $this->need_instance          = 1;
